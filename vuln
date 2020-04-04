@@ -1,0 +1,116 @@
+<!DOCTYPE html PUBLIC �-//W3C//DTD XHTML 1.0 Transitional//EN� �http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd�>
+<html xmlns=�http://www.w3.org/1999/xhtml� xml:lang=�es-ES� lang=�es-ES�>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<title>Sitio Oficial del Partido del Trabajo M�xico</title>
+	<META name="keywords" content="partidos, politicos, trabajadores, diputados, senadores, gobernadores, pt"/>
+	<link href="css/estilos2.css" type="text/css" rel="stylesheet" />
+	<link rel="icon" type="image/png" href="imgs/icono.png">
+</head>
+
+<body oncontextmenu="return false" onkeydown="return false"> 
+<div id="contenedor">
+<div id="encabezado">
+
+</div><!-- encabezado -->
+
+<div id="menusup">
+	<ul>
+      <li><a href="publicaciones.php">Publicaciones</a></li>
+      <li><a href="#">Eventos</a></li>
+      
+    <li><a href="#">Enlaces</a></li>
+      
+    <li><a href="http://www.partidodeltrabajo.org.mx/">Inicio</a></li>
+    </ul>
+</div><!-- mensusup -->
+
+<div id='contenedor_lateral'>
+  <div id="barralateral">		
+	<div id="menulateral">
+<div class="menutitulo">Comunicaci&oacute;n Social</div>
+	<ul>
+	<li><a href="listado.php?tipo=0">Comunicados </a></li>
+	<li><a href="listado.php?tipo=1">Posicionamientos</a></li>
+	<li><a href="listado.php?tipo=2">Temas Nacionales</a></li>
+	<li><a href="listado.php?tipo=3">Temas Internacionales</a></li>
+	<li><a href="#">Estadisticas</a></li>		
+	<li><a href="#">Galer&iacute;a</a></li>	
+    <li><a href="contacto2.php">Contacto</a></li>	
+	</ul>
+	<br>
+	<div class="menutitulo">Legisladores</div>
+	<ul>
+	<li><a href="http://www.ptdiputados.org.mx">Diputados Federales </a></li>
+	<li><a href="senadores.php">Senadores</a></li>
+	<li><a href="dipsloc.php">Diputados Locales </a></li>
+	<li><a href="iniciativas.php">Iniciativas </a></li>	
+	</ul>	
+	<br>
+        <div class="menutitulo">Gobiernos del PT</div>
+	    <ul>
+          <li><a href="presidentes.php">Presidentes Municipales</a></li>
+        </ul>
+	<br>
+	<div class="menutitulo">Procesos Electorales</div>
+	<ul>
+	<li><a href="procesos.php">Calendario Electoral </a></li>
+	<li><a href="docs/plataforma_2009-2012.pdf">Plataforma Electoral </a></li>	
+	<li><a href="#">Campa&ntilde;as</a></li>
+	      <li><a href="#">&Aacute;rea restringida </a></li>
+	</ul>
+	<br>
+	<div class="menutitulo">&iquest;Qu&eacute; es el PT?</div>
+	    <ul>
+		  <li><a href="pt.php">Partido del Trabajo</a></li>
+          <li><a href="historia.php">Historia</a></li>
+          <li><a href="estatutos.php">Estatutos</a></li>
+          <li><a href="principios.php">Principios</a></li>
+          <li><a href="programa.php">Programa de Acci&oacute;n</a></li>		  
+        </ul>
+	<br>
+	  <div class="menutitulo">Organizaci&oacute;n</div>
+	  <ul>
+	<li><a href="estructura.php">Estructura</a></li>
+    <li><a href="comisiones.php">Comisiones Estatales</a></li>
+	</ul>
+	</div> 
+      <!-- menu -->
+      <div align="center"> 
+        
+      <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+      </div>
+    </div> <!-- barralateral -->
+</div> <!-- contenedor lateral-->
+
+<div id="principal"><table  border='0' cellspacing='0' cellpadding='0'>
+<tr>
+<td class=CABEZA width='300' valign="bottom">
+El PT lamenta la muerte de funcionarios federales y ciudadanos  
+</td>
+<td align='center' valign='top'>
+<img src="imgs/125.jpg" alt="foto" >
+</td>
+</tr>
+<tr class=contenido> <td colspan='2'> <p>&nbsp;</p> </td></tr>
+<tr class=contenido> <td colspan='2'> <p>&nbsp;</p> </td></tr>
+<tr class=contenido><td colspan='2'>El Partido del Trabajo lamenta profundamente el fallecimiento de los funcionarios del Gobierno Federal, Juan Camilo Mouri�o, secretario de Gobernaci�n; Jos� Luis Santiago Vasconcelos, secretario t�cnico para la implementaci�n de la reforma penal en materia de seguridad y justicia penal, as� como de otros servidores p�blicos, tripulaci�n y de las personas lesionadas que desgraciadamente se encontraban en el lugar al momento en que cay� la aeronave, en las calles de la Ciudad de M�xico, el martes 4 de noviembre.<br />
+<br />
+El coordinador nacional del Partido del Trabajo, el Senador Alberto Anaya Guti�rrez, expresa sus condolencias a familiares, amigos y colaboradores de todas las personas que lamentablemente perdieron la vida por este percance. <br />
+<br />
+Al mismo tiempo, dadas las circunstancias en que se registro el percance y por las funciones que desempe�aban los servidores p�blicos mencionados, el Partido del Trabajo demanda una investigaci�n a fondo, que permita esclarecer los hechos y deslinde responsabilidades.<br />
+<br />
+</td></tr>
+</table>
+</div><!-- principal -->
+
+
+  <div id="piepag"> 
+  </div>   <!-- piepag -->
+</div><!-- contenedor -->
+
+
+</body>
+</html>
